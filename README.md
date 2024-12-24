@@ -10,6 +10,8 @@ of dollars in sales, and is incredibly simple.
 This template is designed such that anyone can clone the repository and design their
 own successful sales page RIGHT AWAY. 
 
+**NOTE**: Styles are intentionally excluded in order to leave room for a designer's creativity
+
 ## Installation
 
 Coming Soon!
@@ -20,5 +22,5 @@ Coming Soon!
 
 ## Credits
 
-* KJ Rainey: [link to youtube channel]
+* KJ Rainey: https://www.youtube.com/@kjplayslife
 
