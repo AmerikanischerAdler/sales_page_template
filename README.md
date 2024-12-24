@@ -14,11 +14,33 @@ own successful sales page RIGHT AWAY.
 
 ## Installation
 
-Coming Soon!
+Open Terminal and Clone Repository:
+
+```bash
+git clone https://github.com/AmerikanischerAdler/sales_page_template
+```
 
 ## Usage
 
-Coming Soon!
+1) Open Terminal
+
+2) Navigate to sales_page_template Directory:
+
+```bash
+cd sales_page_template
+```
+
+3) Open the Worksheet and Plan Out Elements
+
+*For MacOS*
+
+```bash
+open simple_ws.md 
+```
+
+4) Edit the HTML Template and CSS File Accordingly
+
+*Prompts are presented as comments in the HTML template*
 
 ## Credits
 
