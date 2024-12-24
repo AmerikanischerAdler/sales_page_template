@@ -1,4 +1,4 @@
-# Sales Page Template
+# Simple Sales Page
 
 ## Description
 
@@ -17,17 +17,17 @@ own successful sales page RIGHT AWAY.
 Open Terminal and Clone Repository:
 
 ```bash
-git clone https://github.com/AmerikanischerAdler/sales_page_template
+git clone https://github.com/AmerikanischerAdler/simple_sales_page
 ```
 
 ## Usage
 
 1) Open Terminal
 
-2) Navigate to sales_page_template Directory:
+2) Navigate to simple_sales_page Directory:
 
 ```bash
-cd sales_page_template
+cd simple_sales_page
 ```
 
 3) Open the Worksheet and Plan Out Elements
